@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+.online {
+    background-color: green;
+    
+}
+
+.offline {
+    background-color: red;
+
+}
